@@ -1,0 +1,9 @@
+.highlight {
+  color: rgb(0, 0, 255); /* 讓所有 class 為 highlight 的文字都變紅色 */
+}
+h2 {
+  color: rgb(0, 153, 255); /* 讓所有 class 為 highlight 的文字都變紅色 */
+}
+h3 {
+  color: rgb(131, 156, 102); /* 讓所有 class 為 highlight 的文字都變紅色 */
+}
